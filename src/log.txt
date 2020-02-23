@@ -1,0 +1,82 @@
+COMP30023 Computer Systems
+2017 Semester 1
+Project 2     : log.txt
+Student Name  : Ivan Ken Weng Chee
+Student ID    : 736901
+Student Email : ichee@student.unimelb.edu.au
+
+Connect:
+    Socket   : 4
+    Timestamp: 2017-06-10 16:52:47
+    IP       : 127.0.0.1
+    Port     : 51282
+Socket 4:
+    Type    : PING
+    Received: PING
+    Sent    : PONG
+                                
+Disconnect:
+    Socket   : 4
+    Timestamp: 2017-06-10 16:52:49
+    IP       : 127.0.0.1
+    Port     : 51282
+Connect:
+    Socket   : 4
+    Timestamp: 2017-06-10 16:52:51
+    IP       : 127.0.0.1
+    Port     : 51283
+Socket 4:
+    Type    : PONG
+    Received: PONG
+    Sent    : ERRO Strictly for server response   
+
+Disconnect:
+    Socket   : 4
+    Timestamp: 2017-06-10 16:52:54
+    IP       : 127.0.0.1
+    Port     : 51283
+Connect:
+    Socket   : 4
+    Timestamp: 2017-06-10 16:54:10
+    IP       : 127.0.0.1
+    Port     : 51290
+Socket 4:
+    Type    : OKAY
+    Received: OKAY
+    Sent    : ERRO Not okay to send OKAY messages
+ 
+Disconnect:
+    Socket   : 4
+    Timestamp: 2017-06-10 16:54:12
+    IP       : 127.0.0.1
+    Port     : 51290
+Connect:
+    Socket   : 4
+    Timestamp: 2017-06-10 16:54:13
+    IP       : 127.0.0.1
+    Port     : 51292
+Socket 4:
+    Type    : ERRO
+    Received: ERRO
+    Sent    : ERRO Should not send to the server  
+
+Disconnect:
+    Socket   : 4
+    Timestamp: 2017-06-10 16:54:15
+    IP       : 127.0.0.1
+    Port     : 51292
+Connect:
+    Socket   : 4
+    Timestamp: 2017-06-10 16:54:37
+    IP       : 127.0.0.1
+    Port     : 51294
+Socket 4:
+    Type    : ABRT
+    Received: ABRT
+    Sent    : OKAY
+                                
+Disconnect:
+    Socket   : 4
+    Timestamp: 2017-06-10 16:54:39
+    IP       : 127.0.0.1
+    Port     : 51294
